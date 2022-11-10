@@ -213,10 +213,10 @@ footer {
   position: absolute;
   display: block;
   text-align: center;
-  width: 30%;
+  width: 48%;
   margin: auto;
   top: -6%;
-  left: 35%;
+  left: 27%;
 }
 .menu-bar {
   display: flex;
