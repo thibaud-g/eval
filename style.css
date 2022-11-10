@@ -30,7 +30,7 @@ body {
 
 nav {
   display: flex;
-  padding: 5px 22%;
+  padding: 5px 16%;
   background-image: url(./images/background.jpg);
   justify-content: space-between;
 
@@ -279,12 +279,10 @@ footer {
   /* main content */
 
   .main-content {
-    padding: 0 5%;
+    margin: auto;
+    width: 95%;
   }
 
-  .article {
-    margin-left: 12%;
-  }
   .black-gloves,
   .red-gloves {
     background-size: cover;
